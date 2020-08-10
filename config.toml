@@ -1,4 +1,4 @@
-baseURL = "https://francotarea1.netlify.app"
+baseURL = "https://francotarea1.netlify.app/"
 languageCode = "en-us"
 title = "Franco Porras Tarea 1"
 theme = "slim"

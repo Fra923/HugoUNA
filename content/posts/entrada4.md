@@ -15,12 +15,16 @@ juego con mis mascotas que son 3 perras seguido me lavo los dientes y veo las no
 se presentaron nuevos retos los cuales en realidad me hacen querer mejorar continuamente, realizó estiramientos ya que por mi trabajo trato de cuidar la salud de 
 mi postura especialmente porque conozco sobre lo dañino que puede ser mantener esta postura durante largas horas, me refresco un poco voy a la cocina por agua para manteneme hidratado 
 me gusta trabajar con las ventanas abiertas para poder observar el día ya que mi trabajo puede hacer que pierda la noción del tiempo.
+
 ![dogs](/dogs.jpeg)
+
 Nuevamente tengo una reunión con mi compañero para poder coordinar temas y dudas  que surgen durante el día ,las reuniones son parte de mi día a día como parte de nuestra nueva normalidad en el trabajo.
 Adelanto un poco de mi tareas para lo que queda de la semana,  apagó mi computador y me acuesto para poder descansar mi espalda para luego tomar café con mi hermana, madre y hermano. 
 Alisto mis cosas para ir a la casa de mi novia me doy un poco de prisa ya que hay restricción vehicular, me subo a mi carro para manejar hasta San José, las calles están
 despejadas y la ruta se vuelve bastante corta hasta allá, es una de las ventajas de la pandemia.
+
 ![road trip](/road-trip_tp.jpg)
+
 Al llegar ordenamos algo de cenar mientras vemos una serie y nos ponemos al tanto del día, hoy la noche está fría así que nos abrigamos para ir a tomar una caminata alrededor de la cuadra, 
 nos regresamos a casa luego de 30 minutos de caminata , charlamos y nuevamente comemos algo pequeño para ver alguna otra serie para luego jugar play. 
 

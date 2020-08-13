@@ -17,6 +17,7 @@ Justo al abrir el correo veo que hay varias alertas, al parecer uno de mis progr
 Todos mis compañeros y yo corremos como locos para tratar de encontrar el problema.
 Por suerte mi compañero que también está en Costa Rica, el único en el proyecto además de mi, da con el error y me ayuda a entenderlo.
 Paso el resto de la mañana trabajando en la solución del problema para poder liberarlo en la tarde.
+
 ![fire Alarm](/fireAlarm.jpg)
 
 No me había tocado hacer un deploy a producción para este proyecto, el mismo cuenta con varios scripts de python que se encargan de
@@ -30,7 +31,9 @@ Por suerte el deploy del fix fue exitoso y el programa continuó funcionando con
 
 Aprovecho el momento de relajación para comprarle flores a mi novia por Uber Eats.
 No se dio cuenta de cuando llegaron ya que tenía audífonos puestos y cuando se las mostré se alegró mucho.
+
 ![flower](/flower.jpg)
+
 El resto de la tarde continuo monitoreando los cambios que hice y que todo esté funcionando bien.
 A las 5pm me desconecto del trabajo y voy a tomar café con mi novia, quien pasó jugando Fortnite mientras yo trabajaba.
 Más tarde pedimos algo de comer por Uber Eats, jugamos play un rato más y no fuimos a dormir.

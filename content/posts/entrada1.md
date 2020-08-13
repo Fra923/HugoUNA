@@ -12,6 +12,7 @@ el problema es que eran muchos cambios, en total me dieron una lista de 115 nuev
 
 En mis ratos libres paso jugando video juegos y viendo series con mi novia.
 Por fin terminamos los 3 primeros juegos de Crash después de varias semanas de enviciarnos jugando.
+
 ![Crash Bandicoot](/Crash_Bandicoot.png)
 
 Estos son nuestros juegos favoritos:
@@ -23,6 +24,7 @@ Tengo otros juegos pero a mi novia parece que solo estos 3 le llaman la atenció
 
 Además de jugar en la Playstation 4, también estuvimos viendo la serie llamada Dark, que trata sobre paradojas temporales, a ambos nos emocionan los temas que tratan sobre
 la idea de poder controlar el tiempo a voluntad.
+
 ![Dark tv show](/DarkSeries.jpg)
 
 Cuando por fin nos cansamos de estar sentados frente al televisor, nos gusta caminar un poco al rededor del barrio, es interesante ver como ha cambiado todo por la pandemia y

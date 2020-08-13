@@ -10,10 +10,14 @@ Suena mi alarma como es de costumbre a las 7:15 am  pero como es fin de semana a
 por que dormir más que eso me es imposible  estoy en la casa de mi novia por lo general nos quedamos en la cama 
 aprovechando parte del fin de semana para luego desayunar ,pedidos algún desayuno por medio de uber eats para empezar 
 el día.
+
 ![Alarm clock](/alarm_clock.jpg)
+
 Vimos una película y para cuando termino ya era medio día, fuimos a comprar un monitor que necesitaba para mí área de trabajo
 busque en línea la opción de la tienda más cercana, ya tenía en mente el monitor que iba a comprar así que lo transacción fue rápida y precisa.
+
 ![Monitor](/MSIMonitor.jpg)
+
 A la hora que salimos de comprar mi monitor ya teníamos hambre así que  decidimos ir almorzar cerca, a un restaurante que mantenía estrictamente
 las normas del ministerio de salud ,la distancia y el uso de cubrebocas ademas que en el lugar se utiliza un menú digital escaneando un código Q 
 para evitar los focos de contagio de esta manera .El personal del lugar es muy atento ordenamos una parrillada y unos patacones la comida del lugar

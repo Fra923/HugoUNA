@@ -8,7 +8,7 @@ draft: false
 
 Pasé la semana en el aparta de mi novia, además de la laptop del trabajo también me llevé mi monitor, teclado y mouse para poder hacer teletrabajo desde su casa.
 He estado trabajando en unos cambios de un API hecho en Spring boot, me costó adaptarme al código ya que es algo viejo, pero luego de entenderlo pude llevar a cabo los cambios requeridos,
-el problema es que eran muchos cambios, en total me dieron una lista de 115 nuevos calculos que el API debería realizar y devolver al usuario en forma de reporte, pero ya casi lo termino.
+el problema es que eran muchos cambios, en total me dieron una lista de 115 nuevos cálculos que el API debería realizar y devolver al usuario en forma de reporte, pero ya casi lo termino.
 
 En mis ratos libres paso jugando video juegos y viendo series con mi novia.
 Por fin terminamos los 3 primeros juegos de Crash después de varias semanas de enviciarnos jugando.
@@ -18,10 +18,10 @@ Estos son nuestros juegos favoritos:
 
 	-Crash
 	-Mortal Kombat
-	-Fornite
+	-Fortnite
 Tengo otros juegos pero a mi novia parece que solo estos 3 le llaman la atención.
 
-Ademas de jugar en la Play Station 4, tambien estuvimos viendo la serie llamada Dark, que trata sobre paradojas temporales, a ambos nos emocionas los temas que tratan sobre
+Además de jugar en la Playstation 4, también estuvimos viendo la serie llamada Dark, que trata sobre paradojas temporales, a ambos nos emocionan los temas que tratan sobre
 la idea de poder controlar el tiempo a voluntad.
 ![Dark tv show](/DarkSeries.jpg)
 

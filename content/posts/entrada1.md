@@ -1,13 +1,17 @@
 ---
 title: "Entrada 1"
-date: 2020-08-09T17:50:33-06:00
+date: 2020-08-07T17:50:33-06:00
 draft: false
 ---
 
-# 8/7/2020
+# Viernes
 
-Pasé la semana en el aparta de mi novia, jugando video juegos y viendo series.
-Por fin terminamos los 3 primeros juegos de Crash después de varias semanas de enviciarnos con el juego.
+Pasé la semana en el aparta de mi novia, además de la laptop del trabajo también me llevé mi monitor, teclado y mouse para poder hacer teletrabajo desde su casa.
+He estado trabajando en unos cambios de un API hecho en Spring boot, me costó adaptarme al código ya que es algo viejo, pero luego de entenderlo pude llevar a cabo los cambios requeridos,
+el problema es que eran muchos cambios, en total me dieron una lista de 115 nuevos calculos que el API debería realizar y devolver al usuario en forma de reporte, pero ya casi lo termino.
+
+En mis ratos libres paso jugando video juegos y viendo series con mi novia.
+Por fin terminamos los 3 primeros juegos de Crash después de varias semanas de enviciarnos jugando.
 ![Crash Bandicoot](/Crash_Bandicoot.png)
 
 Estos son nuestros juegos favoritos:
@@ -15,8 +19,14 @@ Estos son nuestros juegos favoritos:
 	-Crash
 	-Mortal Kombat
 	-Fornite
+Tengo otros juegos pero a mi novia parece que solo estos 3 le llaman la atención.
 
-## Lorem ipsum
-"Lorem ipsum dolor sit amet, consectetaur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
- quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
- dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Ademas de jugar en la Play Station 4, tambien estuvimos viendo la serie llamada Dark, que trata sobre paradojas temporales, a ambos nos emocionas los temas que tratan sobre
+la idea de poder controlar el tiempo a voluntad.
+![Dark tv show](/DarkSeries.jpg)
+
+Cuando por fin nos cansamos de estar sentados frente al televisor, nos gusta caminar un poco al rededor del barrio, es interesante ver como ha cambiado todo por la pandemia y
+que hasta las personas que andan corriendo o haciendo otro tipo de deporte, tienen que andar mascarillas. Aunque claro nunca falta más de una persona que no la lleva puesta como corresponde.
+
+En fin, cuando volvemos al aparta normalmente pedimos algo de comer, este día decidimos probar una olla de carne que estaba muy rica, pensé que era algo costosa pero en 
+realidad la porción era justa con el precio, y de hecho no pudimos terminar de comernos todo jaja.

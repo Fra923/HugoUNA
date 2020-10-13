@@ -2,4 +2,4 @@
 title: Cronologia
 ---
 
-Esta section presenta informaciónada cronologicamente con los partidos
+Esta section presenta informació ordenada cronologicamente de los partidos

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h5>{{ .Title }}</h5>
+
+<h2>Detalles del partido</h2>
+<table>
+<tr><td><b>Torneo</b><td><td>{{ .Params.tournament}} {{ .Params.year}}</td></tr>
+<tr><td><b>Locación</b><td><td>{{ .Params.city}} ,  {{ .Params.country}}</td></tr>
+<tr><td><b>Equipos</b><td><td>{{ .Params.home}} vs {{ .Params.away}}</td></tr>
+<tr><td><b>Marcador</b><td><td>{{.Params.home_Team}} {{.Params.home_Score}} - {{.Params.away_Team}} {{.Params.away_Score}}</td></tr>
+</table>
+
+{{ .Content }}
+{{ end }}

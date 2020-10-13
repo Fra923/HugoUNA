@@ -1,0 +1,36 @@
+{{ define "main" }}
+<h4>{{ .Title }}</h4>
+{{ .Content }}
+{{ $myVar := .Title }}
+<ul>
+{{ if or (.IsHome) ( eq .Title "Cronologia") ( eq .Title "Paises") ( eq .Title "Torneos") }}
+  {{ range .Pages.ByPublishDate.Reverse }}
+    <li>
+      <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </a>
+    </li>
+    {{ end }}
+{{ else }}
+  {{ range where .Site.Pages "Params.year" $myVar }}
+    <li><a class="title" href="{{ .RelPermalink }}">{{.Params.home}} vs {{.Params.away}}</a><span> ({{.Params.tournament}})</span>
+    </a>
+  </li>
+  {{ end }}
+  {{ range where .Site.Pages "Params.home" $myVar }}
+    <li><a class="title" href="{{ .RelPermalink }}">{{.Params.home}} vs {{.Params.away}}</a><span> ({{.Params.year}})</span>
+    </a>
+  </li>
+  {{ end }}
+  {{ range where .Site.Pages "Params.away" $myVar }}
+    <li><a class="title" href="{{ .RelPermalink }}">{{.Params.home}} vs {{.Params.away}}</a><span> ({{.Params.year}})</span>
+    </a>
+  </li>
+  {{ end }}
+  {{ range where .Site.Pages "Params.tournament" $myVar }}
+    <li><a class="title" href="{{ .RelPermalink }}">{{.Params.home}} vs {{.Params.away}}</a><span> ({{.Params.year}})</span>
+    </a>
+  </li>
+  {{ end }}
+{{ end }}
+</ul>
+{{ end }}

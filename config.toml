@@ -1,4 +1,4 @@
-baseURL = "https://francotarea1.netlify.app/"
-languageCode = "en-us"
-title = "Franco Porras Tarea 1"
-theme = "slim"
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Resultados Internacionales de Fútbol Femenino"
+theme = "plain"

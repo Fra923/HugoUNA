@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body style="background-color:#EEE;">
+        <div class="container">  
+            <div class="row"><div class="twelve columns"></div></div>
+            {{- partial "header.html" . -}}
+            <div class="row"  style="background-color:white;">
+                <div class="nine columns" style="padding-left:2%;">
+                    {{- block "main" . }}{{- end }}
+                </div>
+            </div>
+            {{- partial "footer.html" . -}}
+         </div>
+        </div>
+    </body>
+</html>
